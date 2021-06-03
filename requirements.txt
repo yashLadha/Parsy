@@ -10,7 +10,7 @@ googleapis-common-protos==1.5.5
 grpcio==1.16.1
 idna==2.7
 itsdangerous==1.1.0
-Jinja2==2.10
+Jinja2==2.11.3
 MarkupSafe==1.1.0
 protobuf==3.6.1
 pyasn1==0.4.4
